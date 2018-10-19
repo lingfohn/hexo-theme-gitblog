@@ -1,6 +1,6 @@
 # config
 rss:            # link
-favicon: https://i.loli.net/2017/11/26/5a19c0b50432e.png
+#favicon: https://i.loli.net/2017/11/26/5a19c0b50432e.png
 blog_logo: 
 header_image: https://i.loli.net/2017/11/26/5a19c56faa29f.jpg
 bio: 君子以慎辨物居方
@@ -30,7 +30,7 @@ social:
 # Footer Links
 footer_text: 
   # title: link
-
+  # 粤ICP备xxxxxxx号-x: http://www.miitbeian.gov.cn
 # widget
 widgets:
   recent_posts: true
